@@ -8,8 +8,8 @@ import hashlib
 import time
 
 binance="https://api.binance.com"
-api_key=""
-secret_key=""
+api_key="Votre Apikey"
+secret_key="Votre secret key"
 
 class Interval(Enum):
     minutes = { 1 :'1m',3:'3m',5:'5m',15:'15m',30:'30m'}
