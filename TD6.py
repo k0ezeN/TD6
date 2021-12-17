@@ -8,7 +8,7 @@ import hashlib
 import time
 
 binance="https://api.binance.com"
-api_key="VSI3EiNZZVFyPil2oxr2gLRXzY7o3uCx07BQC84OyrbI6RKg9okrSNJT4gU7Y73Y"
+api_key=""
 secret_key=""
 
 class Interval(Enum):
